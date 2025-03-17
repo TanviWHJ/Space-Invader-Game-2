@@ -1,1 +1,1 @@
-# Space-Invader-Game-2
+# Space-invader-game
